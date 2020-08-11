@@ -1,0 +1,21 @@
+{
+	"compilerOptions": {
+		"allowJs": false,
+		"allowSyntheticDefaultImports": true,
+		"declaration": true,
+		"downlevelIteration": true, // allow iteration of iterators
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": false,
+		"isolatedModules": true,
+		"lib": ["ESNext", "DOM"],
+		"module": "CommonJS",
+		"moduleResolution": "node",
+		"resolveJsonModule": true,
+		"skipLibCheck": true,
+		"sourceMap": true,
+		"strict": true,
+		"strictNullChecks": false,
+		"target": "es5",
+		"outDir": "./dist"
+	}
+}

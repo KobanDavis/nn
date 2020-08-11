@@ -1,0 +1,13 @@
+{
+	"name": "@kobandavis/nn",
+	"version": "1.0.0",
+	"main": "dist/index.js",
+	"repository": "https://github.com/KobanDavis/nn",
+	"license": "MIT",
+	"scripts": {
+		"build": "tsc -p ."
+	},
+	"dependencies": {
+		"typescript": "^3.9.7"
+	}
+}
